@@ -22,7 +22,7 @@
 * `Windows 10; версия 2004; тип x64.`
 _______________________________________________________________
 
-# Отчёт о тестировании `KeyValidator`
+# Отчёт о тестировании запуска `KeyValidator`
 
 ## Краткое описание
 
@@ -41,10 +41,10 @@ _______________________________________________________________
 * [Ключи для проверки](https://raw.githubusercontent.com/Cliffart44/hw1.1_KeyValidator/master/keys2test.txt) из [руководства использования `KeyValidator`](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8).
 
 Тестирование производилось в следующем окружении:
-* `Windows 10; версия 2004; тип x64.`
-* `openjdk version "11.0.8" 2020-07-14`
-`OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.8+10)`
-`OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)`
+* `Windows 10`; `версия 2004`; `тип x64`.
+* `openjdk version "11.0.8" 2020-07-14`;
+`OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.8+10)`;
+`OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)`.
 _______________________________________________________________
 
 # Отчёт о тестировании `KeyValidator`
@@ -56,8 +56,8 @@ _______________________________________________________________
 На тестирование затрачено: один час.
 
 В результате тестирования выявлены следующие дефекты:
-* [Отказ верификации валидных ключей]()
-* [Верификация невалидных ключей]()
+* [Отказ верификации валидных ключей](https://github.com/Cliffart44/hw1.1_KeyValidator/issues/2)
+* [Верификация невалидных ключей](https://github.com/Cliffart44/hw1.1_KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
@@ -68,7 +68,7 @@ _______________________________________________________________
 * [Ключи для проверки](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) из [руководства использования `KeyValidator`](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-keyvalidator).
 
 Тестирование производилось в следующем окружении:
-* `Windows 10; версия 2004; тип x64.`
-* `openjdk version "11.0.8" 2020-07-14`
-`OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.8+10)`
-`OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)`
+* `Windows 10`; `версия 2004`; `тип x64`.
+* `openjdk version "11.0.8" 2020-07-14`;
+`OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.8+10)`;
+`OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)`.
